@@ -18,11 +18,6 @@ This repository contains a Tableau dashboard developed using the "Getting Starte
 ## Dashboard Creation Experience
 Using Tableau's user-friendly interface and extensive features, I was able to create this interactive dashboard in just 20 minutes, without writing a single line of code. The process was quick and intuitive, demonstrating why Tableau is a preferred tool among professionals for data visualization.
 
-## Use Cases
-- **Data Analysts/Scientists:** Quickly draw conclusions on the profitability of different regions, segments, or categories.
-- **Executives:** Obtain a high-level overview of business performance to inform decision-making.
-- **Marketers:** Identify optimal times and regions for promotional activities based on profitability trends.
-
 ## Files in This Repository
 - `Sample-Superstore-Dashboard.twbx`: The Tableau workbook containing the dashboard.
 - `Sample-Superstore.xlsx`: The dataset used to create the dashboard.
